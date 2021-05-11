@@ -1,11 +1,9 @@
 # Docker Practice
 Examples and practice with docker
 
-Official site: 
-https://www.docker.com/
+[Official site](https://www.docker.com/)
 
-Documentation: 
-https://docs.docker.com/
+[Documentation](https://docs.docker.com/)
 
 ## Installation on Linux: 
 _(following guide from https://techviewleo.com/how-to-install-and-use-docker-in-linux-mint/)_
