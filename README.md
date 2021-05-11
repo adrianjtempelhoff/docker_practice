@@ -7,7 +7,9 @@ https://www.docker.com/
 Documentation: 
 https://docs.docker.com/
 
-Installation on Linux: _(foolowing guide from https://techviewleo.com/how-to-install-and-use-docker-in-linux-mint/)_
+## Installation on Linux: 
+_(following guide from https://techviewleo.com/how-to-install-and-use-docker-in-linux-mint/)_
+
 Update your system
 First ensure that your system packages are updated
 ```
