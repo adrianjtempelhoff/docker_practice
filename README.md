@@ -1,2 +1,2 @@
-# docker_pracitse
-examples and practise with docker
+# docker_practice
+examples and practice with docker
