@@ -1,4 +1,4 @@
-# docker_practice
+# Docker Practice
 Examples and practice with docker
 
 Official site: 
